@@ -7,10 +7,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
+## Two Pointers
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->

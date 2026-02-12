@@ -11,8 +11,5 @@ class Solution:
                 r=mid-1
         cntNeg = r+1
         cntPos = len(a)-l
-        # print(l,r)
-        # print(a[l],a[r])
-        # print(cntNeg, cntPos)
         return max(r+1,len(a)-l)
             

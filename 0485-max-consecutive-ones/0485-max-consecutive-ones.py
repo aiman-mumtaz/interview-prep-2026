@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             if i == 1:
                 tmpCnt += 1
-            else:
                 mxCnt = max(mxCnt,tmpCnt)
+            else:
                 tmpCnt=0
-        return max(tmpCnt,mxCnt)
+        return mxCnt

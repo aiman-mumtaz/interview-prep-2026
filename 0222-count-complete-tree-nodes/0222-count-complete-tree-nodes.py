@@ -6,7 +6,9 @@
 #         self.right = right
 class Solution:
     def calcHeight(self, root: Optional[TreeNode], isLeft: boolean) -> int:
-        h=0
+        if not root:
+            return 0
+        h=1
         if isLeft:
             while root and root.left:
                 h+=1
@@ -21,6 +23,6 @@ class Solution:
             return 0
         lHeight = self.calcHeight(root,True)
         rHeight = self.calcHeight(root,False)
-        tmp=root
-        
+        if lHeight == rHeight:
+            return 2 ** lHeight - 1
         return self.countNodes(root.left) + self.countNodes(root.right)+1

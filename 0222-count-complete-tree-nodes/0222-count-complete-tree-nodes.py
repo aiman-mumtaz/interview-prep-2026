@@ -5,22 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def calcHeight(self, root: Optional[TreeNode], isLeft: boolean) -> int:
-        h=0
-        if isLeft:
-            while root and root.left:
-                h+=1
-                root=root.left
-        else:
-            while root and root.right:
-                h+=1
-                root=root.right
-        return h
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        lHeight = self.calcHeight(root,True)
-        rHeight = self.calcHeight(root,False)
+        lHeight, rHeight = 0,0
         tmp=root
-        
+        while tmp and tmp.left:
+            lHeight+=1
+            tmp=tmp.left
+        while tmp and tmp.right:
+            rHeight+=1
+            tmp=tmp.right
+        if lHeight == rHeight:
+            return 2 ** lHeight
         return self.countNodes(root.left) + self.countNodes(root.right)+1

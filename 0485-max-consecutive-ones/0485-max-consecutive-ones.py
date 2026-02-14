@@ -3,9 +3,9 @@ class Solution:
         mxCnt=0
         tmpCnt=0
         for i in nums:
-            if i == 1:
-                tmpCnt += 1
+            if i == 0:
                 mxCnt = max(mxCnt,tmpCnt)
-            else:
                 tmpCnt=0
-        return mxCnt
+            else:
+                tmpCnt += 1
+        return max(tmpCnt,mxCnt)

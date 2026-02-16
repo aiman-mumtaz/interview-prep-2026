@@ -3,10 +3,8 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        if n==1:
-            return n
         i,j=1,n
-        ans=0
+        ans=n
         while i<=j:
             mid = i + (j-i) // 2
             if isBadVersion(mid):

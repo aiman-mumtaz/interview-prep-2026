@@ -8,7 +8,7 @@ class Solution:
         i,j=1,n
         ans=0
         while i<=j:
-            mid = (i+j) // 2
+            mid = i + (j-i) // 2
             if isBadVersion(mid):
                 ans=mid
                 j=mid-1

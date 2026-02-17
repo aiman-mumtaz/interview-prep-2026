@@ -4,7 +4,4 @@ class Solution:
         for x in nums:
             h_mp[x] = h_mp.get(x, 0) + 1
         
-        for key in h_mp:
-            print(key, h_mp[key])
-
         return [i for i,x in h_mp.items() if x == 0]

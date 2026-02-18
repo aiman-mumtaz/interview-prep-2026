@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

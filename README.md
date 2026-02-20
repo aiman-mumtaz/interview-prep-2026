@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0905-sort-array-by-parity) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0645-set-mismatch) |

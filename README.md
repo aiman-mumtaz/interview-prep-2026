@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0922-sort-array-by-parity-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->

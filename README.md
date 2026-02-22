@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -114,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
 | [3794-reverse-string-prefix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->

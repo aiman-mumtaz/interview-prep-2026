@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
 |  |
 | ------- |
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
+| [3498-reverse-degree-of-a-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->

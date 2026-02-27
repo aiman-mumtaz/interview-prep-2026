@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0922-sort-array-by-parity-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3794-reverse-string-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

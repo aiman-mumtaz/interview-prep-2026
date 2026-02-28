@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
+| [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3760-maximum-substrings-with-distinct-start) |

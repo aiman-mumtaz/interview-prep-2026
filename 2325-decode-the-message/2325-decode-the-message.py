@@ -7,6 +7,8 @@ class Solution:
             if i != " " and i not in mp:
                 mp[i] = alphabet[idx]
                 idx += 1
+                if idx == 26:
+                    break
         ans = ""
         for i in message:
             if i != " ":

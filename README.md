@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2325-decode-the-message](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
+| [2325-decode-the-message](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0645-set-mismatch) |
+| [1009-complement-of-base-10-integer](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |

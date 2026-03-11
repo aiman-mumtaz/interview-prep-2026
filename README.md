@@ -166,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2367-number-of-arithmetic-triplets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->

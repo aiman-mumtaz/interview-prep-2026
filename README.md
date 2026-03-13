@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3164-find-the-number-of-good-pairs-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->

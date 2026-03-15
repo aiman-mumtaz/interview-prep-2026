@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
+| [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1396-design-underground-system) |
+| [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1470-shuffle-the-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2367-number-of-arithmetic-triplets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
 |  |

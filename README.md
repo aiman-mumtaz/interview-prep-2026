@@ -186,12 +186,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |

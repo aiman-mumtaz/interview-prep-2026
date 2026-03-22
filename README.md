@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1470-shuffle-the-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2367-number-of-arithmetic-triplets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Counting

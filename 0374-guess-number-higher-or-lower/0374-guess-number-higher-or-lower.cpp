@@ -12,7 +12,7 @@ public:
     int guessNumber(int n) {
         long s=1,e=n;
         while(s<e){
-            long m = (s+e)/2;
+            long m = (s+e) >> 1;
             if(guess(m) == 0){
                 return m;
             }else if(guess(m) == -1){

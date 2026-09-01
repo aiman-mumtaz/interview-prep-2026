@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
 | [1396-design-underground-system](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1396-design-underground-system) |
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 ## Enumeration
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

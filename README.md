@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0468-validate-ip-address](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0468-validate-ip-address) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
@@ -252,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

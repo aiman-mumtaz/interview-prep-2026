@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |

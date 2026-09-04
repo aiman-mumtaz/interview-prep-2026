@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3668-restore-finishing-order) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3903-smallest-stable-index-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0146-lru-cache) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0349-intersection-of-two-arrays) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0468-validate-ip-address](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0468-validate-ip-address) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |

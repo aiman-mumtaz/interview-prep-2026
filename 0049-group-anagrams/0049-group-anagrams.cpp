@@ -8,7 +8,6 @@ public:
             mp[sortedSt].push_back(x);
         }
         vector<vector<string>> ans(mp.size());
-        cout<<mp.size();
         int i=0;
         for(auto x:mp){
             for(auto item: x.second){

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0287-find-the-duplicate-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |

@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0468-validate-ip-address](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0468-validate-ip-address) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1396-design-underground-system](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1396-design-underground-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -275,8 +276,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

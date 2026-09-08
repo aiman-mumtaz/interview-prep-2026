@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0128-longest-consecutive-sequence) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

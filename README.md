@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3870-count-commas-in-range](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation

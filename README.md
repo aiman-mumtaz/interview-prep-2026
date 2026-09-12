@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1396-design-underground-system](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1396-design-underground-system) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1396-design-underground-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3498-reverse-degree-of-a-string) |

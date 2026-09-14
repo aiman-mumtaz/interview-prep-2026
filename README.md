@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0836-rectangle-overlap) |
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0100-same-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

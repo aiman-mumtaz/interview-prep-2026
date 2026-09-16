@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |

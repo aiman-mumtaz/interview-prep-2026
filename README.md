@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0287-find-the-duplicate-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0344-reverse-string) |
 | [0468-validate-ip-address](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0468-validate-ip-address) |
 | [0771-jewels-and-stones](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0771-jewels-and-stones) |

@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0836-rectangle-overlap) |
 | [1622-fancy-sequence](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0509-fibonacci-number) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -334,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aiman-mumtaz/interview-prep-2026/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
